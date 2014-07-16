@@ -1,0 +1,15 @@
+Parse and gather data over multiple git projects.
+
+Done:
+
+* Authors per project
+* Number of commits over time
+* Gems uses if there is a gemfile
+* Language used (guess)
+
+Todo:
+
+* Active authors this month
+* Newly added libs (gems, python packages, etc)
+* Open pull requests over time (from github)
+* How to deal with branches?  Assume master?
