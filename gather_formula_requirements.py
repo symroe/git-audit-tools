@@ -29,6 +29,4 @@ if __name__ == "__main__":
             for k, v in values.items():
                 print "    * %s" % k
                 print "        * %s" % ",".join(v)
-                # print v
             print
-        
